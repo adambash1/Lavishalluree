@@ -41,7 +41,7 @@ body{
     margin: 40px 40px;
 }
 .name1, .name2, .name3, .name4{
-    color: red;
+    color: black;
 }
 #reference{
     position: absolute;
