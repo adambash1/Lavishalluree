@@ -211,10 +211,13 @@ figcaption{
   
   .app-contact {
     margin-top: auto;
-    font-size: 8px;
+    font-size: 10px;
     color: #888;
+    font-family: verdana;
   }
-  
+  #phone-contact:hover{
+    background-color: red;
+  }
   .app-form-group {
     margin-bottom: 15px;
   }
@@ -317,5 +320,8 @@ figcaption{
     .screen-body-item {
       padding: 0;
     }
+  }
+  a{
+    color: whitesmoke;
   }
   
