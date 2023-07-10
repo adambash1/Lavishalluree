@@ -1,2 +1,2 @@
 # Lavishalluree
-An online makeup booking system
+An online makeup booking system. 
