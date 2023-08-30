@@ -316,3 +316,7 @@ h6,
 a{
     color: #FFFFFF;
 }
+.img-fluid w-100{
+   height: 1200px;
+   width: 1200px;
+}
